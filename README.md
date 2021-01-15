@@ -4,21 +4,21 @@
 # I'm Gaurav  👨🏻‍💻
 #### I'm One...who is Tech Enthusiastic and Passionate in the field of technologies like Cloud Computing, DevOps, Networking, Data Analytics.
 
-### Area of interest include:
+### Area of interest include🤟🏻:
 
 ##### Amazon Web Service | Microsoft Azure | Alibaba Cloud | Google Cloud Platform | Terraform | Git | GitHub | Docker | Chef | MySQL | Amazon DynamoDB | Networking | Virtualisation | Redhat Linux etc.
 
-##  Checkout my Collaborations:
+##  Checkout my Collaborations😍:
 
-### Technical Blogs
+### Technical Blogs📄🖋️
 #### <a href="https://roopu.cloud/alibaba-cloud-resource-access-management-ram/">Alibaba Cloud Resource Access Management </a> ✍
 #### <a href="https://roopu.cloud/how-to-configure-an-apache-web-server-on-alibaba-cloud-ecs-linux-server/">How to Configure an Apache web server on Alibaba Cloud ECS server </a>✍ 
 #### <a href="https://roopu.cloud/alibaba-cloud-cdn/">Alibaba Cloud Content Delivery Network </a> ✍
 #### <a href="https://youtu.be/YTg3sd4ffVs">How to install Terraform on an Alibaba Cloud Linux Server </a> 
 
-### Visit My YouTube Channel "IG TechTalk"
+### Visit My YouTube Channel🧑🏻‍🏫 👇
 #### <a href="https://www.youtube.com/channel/UC6mPkrxisUxat3uIqlVBGQg">IG TechTalk</a> 
-##  Learning Portfolio's:
+##  Learning Portfolio's👨🏻‍🎓:
 
  #### - <a href="https://drive.google.com/file/d/16PTDxdZB9yBAltasuUC4QtySRDspIQlj/view?usp=sharing">AWS Educate Portfolio </a>
 #### - <a href="https://docs.microsoft.com/en-us/users/gauravguruji-6846/">Microsoft Learn Portfolio </a>
