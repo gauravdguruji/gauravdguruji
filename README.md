@@ -18,7 +18,7 @@
 #### <a href="https://roopu.cloud/alibaba-cloud-cdn/">Alibaba Cloud Content Delivery Network </a> ✍
 #### <a href="https://youtu.be/YTg3sd4ffVs">How to install Terraform on an Alibaba Cloud Linux Server </a> 
 
-### Visit YouTube Channel "IG TechTalk"
+### Visit My YouTube Channel "IG TechTalk"
 #### <a href="https://www.youtube.com/channel/UC6mPkrxisUxat3uIqlVBGQg">IG TechTalk</a> 
 ##  Learning Portfolio's:
 
