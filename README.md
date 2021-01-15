@@ -1,4 +1,4 @@
-<video src="https://raw.githubusercontent.com/gauravdguruji/gauravdguruji/main/profile.mp4" alt="Profile video">
+
  <video>
   <source src="https://raw.githubusercontent.com/gauravdguruji/gauravdguruji/main/profile.mp4" type="video/mp4">
  </video>
