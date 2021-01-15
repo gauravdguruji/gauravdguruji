@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/gauravdguruji/gauravdguruji/main/profile.mp4" alt="Portfolio Template that says Raktim Midya - Tech Enthusiast alongside a cartoon illustration of Raktim">
+
 # I'm Gaurav  👨🏻‍💻
 #### I'm One...who is Tech Enthusiastic and Passionate in the field of technologies like Cloud Computing, DevOps, Networking, Data Analytics.
 
