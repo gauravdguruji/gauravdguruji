@@ -1,7 +1,5 @@
 
- <video>
-  <source src="https://raw.githubusercontent.com/gauravdguruji/gauravdguruji/main/profile.mp4" type="video/mp4">
- </video>
+<img src="https://raw.githubusercontent.com/gauravdguruji/gauravdguruji/main/profile.gif" alt="my profile video">
 
 # I'm Gaurav  👨🏻‍💻
 #### I'm One...who is Tech Enthusiastic and Passionate in the field of technologies like Cloud Computing, DevOps, Networking, Data Analytics.
