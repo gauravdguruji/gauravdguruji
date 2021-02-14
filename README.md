@@ -25,6 +25,7 @@
 
 ## Certifications :v:
 
+#### - <a href="https://www.youracclaim.com/earner/earned/badge/778aeb03-ff66-48d8-afdc-8634b7a6ac9b">Microsoft Certified: Azure Data Fundamentals (DP-900)</a>
 #### - <a href="https://www.youracclaim.com/badges/10042315-1ae6-4c52-8762-31cc23f5a374/linked_in_profile">Microsoft Certified: Azure Administrator Associate (AZ-104) </a>
 #### - <a href="https://www.youracclaim.com/badges/b0341105-d838-4bc2-a657-315f9d12b713?source=linked_in_profile">Microsoft Certified: Azure Fundamentals </a>
 #### - <a href="https://www.youracclaim.com/badges/932859d5-567f-4cdf-bb43-6abba1ceb7cf/linked_in_profile">MTA: Networking Fundamentals: Certified 2020</a>
